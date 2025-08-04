@@ -33,7 +33,7 @@ To build a simple AR app that allows users to:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/ar-placement-app.git
+   https://github.com/dalima6267/AR_Placement/tree/main
    ```
 
 2. **Open in Android Studio**
@@ -53,7 +53,4 @@ To build a simple AR app that allows users to:
 - ✅ Working AR Android app  
 - ✅ Codebase (in this repository)  
 
-
-## 🙌 Author  
-**Dalima Sahu**  
 (Android Developer)
