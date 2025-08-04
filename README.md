@@ -53,4 +53,3 @@ To build a simple AR app that allows users to:
 - ✅ Working AR Android app  
 - ✅ Codebase (in this repository)  
 
-(Android Developer)
